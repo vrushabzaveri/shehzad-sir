@@ -1,0 +1,128 @@
+body {
+	
+  margin: 10px;
+  background-color: #ddebad;
+}
+
+.dashboard-container{
+  font-size: 16px;
+
+}
+
+
+hr {
+  border:1px dotted black;
+}
+
+
+.card1{
+  padding: 5px;
+  padding-top:15px ;
+  background-color: #ef8484;
+  border: 1px solid #ef8484;
+  border-radius: 8px;
+  height: 100px;
+  width: 100%;
+
+}
+
+.card2{
+  padding: 5px;
+  padding-top:15px ;
+  background-color: #89c0d3;
+  border: 1px solid #89c0d3;
+  border-radius: 8px;
+  height: 100px;
+  width: 100%;
+}
+
+.card3{
+  padding: 5px;
+  padding-top:15px ;
+  background-color: #e5e55d;
+  border: 1px solid #e5e55d;
+  border-radius: 8px;
+  height: 100px;
+  width: 100%;
+}
+
+.card4{
+  padding: 5px;
+  padding-top:15px; 
+  background-color: #e9b556;
+  border: 1px solid #e9b556;
+  border-radius: 8px;
+  height: 100px;
+  width: 100%;
+}
+
+
+.dashboard-container{
+text-align: center;
+margin-top: 50px;
+
+}
+
+.dashboard-heading{
+  font-size: 30px;
+ 
+
+}
+
+.button-container{
+  margin-top: 25px;
+}
+
+.dashboard-button{
+  padding: 10px 20px;
+  font-size: 12px;
+  border: solid;
+  
+}
+
+.mainPage{
+	
+	border-bottom: 30px;
+  text-transform: uppercase;
+
+}
+
+
+.btn-info {
+	color:white;
+	border-color: orange;
+
+}
+
+.twos{
+	display: flex;
+}
+
+.addNewBtn{
+	margin-top: 20px;	
+}
+
+
+.formBody {
+   padding: 10px;
+   border: 1px solid #eee;	
+}
+
+.form-inline label {
+  margin: 5px 10px 5px 0;
+}
+
+.form-inline input {
+  vertical-align: middle;
+  margin: 5px 10px 5px 0;
+  padding: 10px;
+  background-color: skyblue;
+  border: 1px solid;
+}
+
+
+  .mainPage a{
+    text-decoration: none;
+    color: #000;
+  }
+
